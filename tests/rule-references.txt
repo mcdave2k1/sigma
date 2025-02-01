@@ -3473,3 +3473,13 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provid
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-remotely-starting-with-vista
 https://taiwan.postsen.com/business/88601/Hamas-hackers-use-data-destruction-software-BiBi-which-consumes-a-lot-of-processor-resources-to-wipe-Windows-computer-data--iThome.html
 https://www.swascan.com/cactus-ransomware-malware-analysis/
+https://github.com/assetnote/exploits/tree/main/citrix/CVE-2023-4966
+https://community.f5.com/t5/technical-forum/icontrolrest-11-5-execute-bash-command/td-p/203029
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a
+https://pentestlab.blog/2019/10/29/persistence-netsh-helper-dll/
+https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispcpl
+https://squiblydoo.blog/2023/11/07/october-2023-solarmarker/
+https://advisory.splunk.com/advisories/SVD-2023-1104
+https://linux.die.net/man/8/useradd
+https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
