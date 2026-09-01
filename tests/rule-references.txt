@@ -4164,3 +4164,17 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
 https://www.spamhaus.org/reputation-statistics/cctlds/domains/
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4616
+https://medium.com/@NullByteWht/hacking-macos-how-to-dump-1password-keepassx-lastpass-passwords-in-plaintext-723c5b1c311b
+https://cloud.google.com/blog/topics/threat-intelligence/cybercriminals-weaponize-fake-ai-websites
+https://tria.ge/240226-fhbe7sdc39/behavioral1
+https://www.proofpoint.com/us/blog/threat-insight/phish-china-aligned-espionage-actors-ramp-up-taiwan-semiconductor-targeting
+https://www.mcafee.com/blogs/other-blogs/mcafee-labs/agent-teslas-unique-approach-vbs-and-steganography-for-delivery-and-intrusion/
+https://bazaar.abuse.ch/browse/tag/one/
+https://thedfirreport.com/2024/04/01/from-onenote-to-ransomnote-an-ice-cold-intrusion/
+https://intel.thedfirreport.com/eventReports/view/57
+https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.eventing.reader.eventlogsession.clearlog?view=windowsdesktop-9.0&viewFallbackFrom=dotnet-plat-ext-5.0#System_Diagnostics_Eventing_Reader_EventLogSession_ClearLog_System_String_
+https://app.any.run/tasks/9a8fd563-4c54-4d0a-9ad8-1fe08339cbc3/
+https://web.archive.org/web/20220830134315/https://content.fireeye.com/apt-41/rpt-apt41/
+https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/?123
+https://web.archive.org/web/20230329154538/https://blog.menasec.net/2019/07/interesting-difr-traces-of-net-clr.html
